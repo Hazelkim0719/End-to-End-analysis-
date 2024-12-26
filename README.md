@@ -11,6 +11,14 @@ Data source: Create database using data given
 ### ⚡️ Data Analysis Workflow 
 1. create database
 2. develop SQL queries
-3. Connect Power BI to DB
-4. Build a Dashboard in Power BI
+3. Connect Tablaeu to DB
+4. Build a Dashboard in Tablaeu
 5. Answer analysis questions
+
+
+### Lesson Learned 
+1. Gained proficency in Tablaue & SQL 
+2. Built data database from the scratch 
+
+
+## Working Progress Dashboard 
